@@ -1,9 +1,7 @@
 # Data-Analysis-with-Python
-This repository contains a coursework I did in my first year on Data analysis.
-The original file in which the analysis of data is called RAW_DATA in the repository.
-
-
 This repository is about Data analysis with Python using libraries such as Pandas, Matplotlib, Seaborn, and NumPy to analysis prices of properties in given areas to predict future prices.
+
+* The original file in which the analysis of data is called RAW_DATA in the repository.
 
 By leveraging Pandas, we can efficiently load, clean, and manipulate datasets, ensuring data integrity.
 
